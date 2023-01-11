@@ -8,22 +8,35 @@ Curso 10 horas, 2 clases.
 
 ## Contenido 
 
-Clase 1:
+### Clase 1:
+ 1. Conceptos básicos de probabilidad
 
- 1.	CONCEPTO DE MODELO EN LA CIENCIA
- 2.	INTRODUCCIÓN AL MACHINE LEARNING
- 3.	MODELOS DE REGRESIÓN  
-  - 3.1 Regresión lineal multivariada
-  - 3.2 Modelo lineal generalizado
-  - 3.3 Regularización
-  - 3.4 K-Nearest Neighbors
-   
+  - 1.1. Probabilidad condicional
 
-Clase 2:
-  - 3.5	Support Vector Machines para regresión
-  - 3.6	Árboles de decisión para regresión
-  - 3.7	Ensambles para regresión
-    - 3.7.1	Random Forest
-    - 3.7.2	Gradient Boosting Trees
-  - 3.8	Regresión lineal bayesiana
-    
+  - 1.2. Probabilidad total
+
+  - 1.3. Probabilidad marginal
+
+  - 1.4. Regla de Bayes
+
+ 2. Redes bayesianas
+
+  - 2.1. Introducción e inferencia
+
+  - 2.2. Clasificadores bayesianos
+
+  - 2.3. Aprendizaje de redes Bayesianas
+ 
+### Clase 2:
+
+  - 2.4. Redes Bayesianas dinámicas
+
+ 3. Modelos Ocultos de Markov
+
+  - 3.1. Arquitectura y tipos de los Modelos Ocultos de Markov
+
+  - 3.2. Problemas básicos
+
+  - 3.3. Algoritmo de avance y retroceso
+
+  - 3.4. Algoritmo esperanza-maximización.
