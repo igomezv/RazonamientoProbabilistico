@@ -2,8 +2,6 @@
 
 Curso 10 horas, 2 clases.
 
-# Course: Probabilistic Reasoning
-
 10 hours, 2 sessions.
 
 ## Contenido 
