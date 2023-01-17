@@ -2,8 +2,6 @@
 
 Curso 10 horas, 2 clases.
 
-10 hours, 2 sessions.
-
 ## Contenido 
 
 ### Clase 1:
