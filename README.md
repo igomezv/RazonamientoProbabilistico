@@ -11,9 +11,7 @@ Curso 10 horas, 2 clases.
 
   - 1.2. Probabilidad total
 
-  - 1.3. Probabilidad marginal
-
-  - 1.4. Regla de Bayes
+  - 1.3. Regla de Bayes
 
  2. Redes bayesianas
 
