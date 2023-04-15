@@ -2,8 +2,6 @@
 
 Duración: 10 horas, 2 clases.
 
-Duración: 30 horas.
-
 DGTIC-UNAM.
 
 Instructor: Isidro Gómez Vargas
