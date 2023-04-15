@@ -36,7 +36,5 @@ Curso 10 horas, 2 clases.
   - 3.4. Algoritmo esperanza-maximización
 
 Referencias:
-- https://analyticsindiamag.com/a-guide-to-inferencing-with-bayesian-network-in-python/.
-- https://pgmpy.org/index.html
 - Rusell, B., & Norvig, U. (2004). Inteligencia Artificial. Un enfoque práctico.
 - Jensen, F. V., & Nielsen, T. D. (2007). Bayesian networks and decision graphs (Vol. 2). New York: Springer.
