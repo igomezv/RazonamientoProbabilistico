@@ -2,7 +2,7 @@
 
 Duración: 10 horas, 2 clases.
 
-DGTIC-UNAM.
+Diplomado en Inteligancia Artificial Aplicada. DGTIC-UNAM.
 
 Instructor: Isidro Gómez Vargas
 
@@ -39,8 +39,8 @@ Desde Google Colab puedes elegir una de las siguientes opciones:
 
  2. Redes bayesianas
 
-  - 2.1. Introducción e inferencia
-
+  - 2.1. Introducción
+  
   - 2.2. Clasificadores bayesianos
 
   - 2.3. Aprendizaje de redes Bayesianas
