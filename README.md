@@ -51,13 +51,11 @@ Desde Google Colab puedes elegir una de las siguientes opciones:
 
  3. Modelos Ocultos de Markov
 
-  - 3.1. Arquitectura y tipos de los Modelos Ocultos de Markov
+  - 3.1. Arquitectura de los Modelos Ocultos de Markov
 
   - 3.2. Problemas básicos
 
-  - 3.3. Algoritmo de avance y retroceso
-
-  - 3.4. Algoritmo esperanza-maximización
+  - 3.3. Algoritmos
 
 Referencias:
 - Rusell, B., & Norvig, U. (2004). Inteligencia Artificial. Un enfoque práctico.
